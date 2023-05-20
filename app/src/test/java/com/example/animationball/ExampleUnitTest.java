@@ -1,4 +1,4 @@
-package com.maprod.animationball;
+package com.example.animationball;
 
 import org.junit.Test;
 

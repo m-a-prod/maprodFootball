@@ -1,10 +1,8 @@
-package com.maprod.animationball;
+package com.example.animationball;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
-import com.example.animationball.R;
 
 public class MainActivity extends AppCompatActivity {
 
